@@ -1,0 +1,6 @@
+gateway:
+    ip: 172.28.39.97
+
+token:
+    expiration_time: 864000000
+    secret: test_secret
