@@ -1,5 +1,5 @@
 gateway:
-    ip: 172.28.39.97
+    ip: 59.29.224.186
 
 token:
     expiration_time: 864000000
